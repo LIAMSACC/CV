@@ -1,0 +1,13 @@
+body {
+background-color:lightGrey
+}
+
+h1,H3 {
+  color: #66BFBF;
+  <!--margin-left: 20px;</!-->
+}
+hr{
+height: 2px;
+width: 5%;
+ border-top: 5px dotted grey;
+}
